@@ -1,0 +1,7 @@
+export const LOGIN = "LOGIN"
+export const LOG_OUT = "LOG_OUT"
+export const FLASH_MESSAGES = "FLASH_MESSAGES"
+export const OPEN_SEARCH = "OPEN_SEARCH"
+export const CLOSE_SEARCH = "CLOSE_SEARCH"
+export const SET_LOGIN = "SET_LOGIN"
+export const FETCH_LOGIN_FAILED = "FETCH_LOGIN_FAILED"
